@@ -1,0 +1,7 @@
+flask
+passlib
+flask-mysqldb
+Flask-WTF
+pyjwt
+requests
+pyyaml
